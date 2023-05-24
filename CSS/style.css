@@ -190,7 +190,7 @@ section article img{
 }
 @media(max-width: 767px) {
     .community {
-        width: 365px;
+        width: 355px;
         height: 200px;
         padding: 10px;
     }
