@@ -180,6 +180,7 @@ section article img{
 }
 .community h2{
     font-size: 30px;
+    margin-bottom: 15px;
     padding: 0 0 20px;
     color: hsl(192, 100%, 9%);
 }
