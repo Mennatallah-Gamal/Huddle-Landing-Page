@@ -18,7 +18,7 @@ body {
     background-image: url(../images/bg-hero-desktop.svg);
     background-size: cover;
     background-color: hsl(193, 100%, 96%);
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 }
 @media(max-width: 767px) {
     .container {
@@ -97,6 +97,7 @@ body {
 }
 .container .content img {
     width: 50%;
+    height: 480px;
     display: block;
     margin-top: 60px;
 }
@@ -112,7 +113,7 @@ section article {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 400px;
+    height: 450px;
     padding: 40px 60px;
     border-radius: 10px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
