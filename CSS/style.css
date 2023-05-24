@@ -164,7 +164,7 @@ section article img{
     }
 }
 .community {
-    padding: 40px 30px 30px;
+    padding: 40px 30px 25px;
     width: 600px;
     height: 280px;
     border-radius: 10px;
@@ -180,7 +180,7 @@ section article img{
 }
 .community h2{
     font-size: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 17px;
     padding: 0 0 20px;
     color: hsl(192, 100%, 9%);
 }
