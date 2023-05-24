@@ -164,9 +164,9 @@ section article img{
     }
 }
 .community {
-    padding: 30px;
+    padding: 60px 30px 30px;
     width: 600px;
-    height: 250px;
+    height: 300px;
     border-radius: 10px;
     text-align: center;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -179,8 +179,9 @@ section article img{
     transform: translateX(-50%);
 }
 .community h2{
-    font-size: 25px;
+    font-size: 30px;
     padding: 0 0 20px;
+    color: hsl(192, 100%, 9%);
 }
 .community .start {
     padding: 25px 80px;
