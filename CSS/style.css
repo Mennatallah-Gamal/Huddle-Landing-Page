@@ -184,7 +184,7 @@ section article img{
     color: hsl(192, 100%, 9%);
 }
 .community .start {
-    padding: 25px 80px;
+    padding: 28px 85px;
     font-size: 16px;
 }
 @media(max-width: 767px) {
@@ -204,7 +204,7 @@ section article img{
 }
 footer {
     background-color: hsl(192, 100%, 9%);
-    padding:120px 40px ;
+    padding:130px 40px ;
     font-size: 16px;
     color: white;
     width: 100%;
@@ -227,7 +227,7 @@ footer .logo {
     width: 30%;
 }
 footer .info .logo-img{
-    width: 230px;
+    width: 240px;
     padding: 30px 0;
 }
 @media(max-width: 767px) {
